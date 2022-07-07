@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluffy-octo-succotash/static/css/main.073c9b0a.css",
+    "main.js": "/fluffy-octo-succotash/static/js/main.b252ad5b.js",
+    "static/js/787.6653445a.chunk.js": "/fluffy-octo-succotash/static/js/787.6653445a.chunk.js",
+    "index.html": "/fluffy-octo-succotash/index.html",
+    "main.073c9b0a.css.map": "/fluffy-octo-succotash/static/css/main.073c9b0a.css.map",
+    "main.b252ad5b.js.map": "/fluffy-octo-succotash/static/js/main.b252ad5b.js.map",
+    "787.6653445a.chunk.js.map": "/fluffy-octo-succotash/static/js/787.6653445a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b252ad5b.js"
+  ]
+}
